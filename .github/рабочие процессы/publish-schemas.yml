@@ -1,4 +1,4 @@
-name: Update Schema files at OpenTelemetry Website
+Jasum: Update Schema files at OpenTelemetry Website
 
 on:
   # triggers only on a manual dispatch
